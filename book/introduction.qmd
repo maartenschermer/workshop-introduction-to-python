@@ -15,7 +15,7 @@ Programming is a skill that takes time and practice to learn. This course will n
 ## Jupyter Notebooks
 There are many programs that can be used to edit and run Python code. This course will use Jupyter Notebooks. Jupyter Notebooks are a way to combine text, code, and output in a single document. Jupyter Notebooks are a great way to learn Python, as you can run code in small chunks and immediately see the results. But this doesn't mean Jupyter Notebooks are only for beginners. Jupyter Notebooks are used by many professional programmers and scientists to share their work and even do computationally expensive analyses.
 
-See below how a Jupyter Notebook looks like. The notebook is divided in text cells and code cells. The code cell contains Python code, which can be executed by pressing the 'play' button in the toolbar or by pressing `Shift + Enter`. The output of the code is shown below the code cell. The text cells contain text written in Markdown, which is a simple way to format text. You can edit the text by double clicking on the text cell. To render the text again, press `Shift + Enter`.
+See below what a Jupyter Notebook looks like. The notebook is divided in text cells and code cells. A code cell contains Python code, which can be executed by pressing the 'play' button in the toolbar or by pressing `Shift + Enter`. The output of the code is shown below the code cell. The text cells contain text written in Markdown, which is a simple way to format text. You can edit the text by double clicking on the text cell. To render the text again, press `Shift + Enter`.
 
 [![Jupyter Notebook](images/jupyter_example.png)](https://jupyter.org/)
 *Example of a Jupyter Notebook*
